@@ -2,7 +2,7 @@
 
 A small, reproducible pipeline that builds a city greenhouse-gas inventory following the
 [GHG Protocol for Cities (GPC)](https://ghgprotocol.org/ghg-protocol-cities). It is a worked example of
-how I structure emissions data: activity data and emission factors kept apart, every result tied to the
+how to structure emissions data: activity data and emission factors kept apart, every result tied to the
 factor catalogue and GWP set that produced it, and data-quality checks run before anything is reported.
 
 The emission factors and GWP values are public IPCC defaults. **The activity data for "Example City" are

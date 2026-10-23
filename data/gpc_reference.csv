@@ -1,0 +1,14 @@
+gpc_ref,sector,subsector,scope,level
+I.1.1,Stationary energy,Residential buildings,1,BASIC
+I.1.2,Stationary energy,Residential buildings,2,BASIC
+I.2.1,Stationary energy,Commercial and institutional buildings,1,BASIC
+I.2.2,Stationary energy,Commercial and institutional buildings,2,BASIC
+I.3.1,Stationary energy,Manufacturing industries and construction,1,BASIC
+I.3.2,Stationary energy,Manufacturing industries and construction,2,BASIC
+II.1.1,Transportation,On-road,1,BASIC
+II.1.2,Transportation,On-road,2,BASIC
+II.1.3,Transportation,On-road,3,BASIC+
+III.1.1,Waste,Solid waste disposal,1,BASIC
+III.1.2,Waste,Solid waste disposal,3,BASIC
+IV.1,IPPU,Industrial processes,1,BASIC+
+V.1,AFOLU,Livestock,1,BASIC+

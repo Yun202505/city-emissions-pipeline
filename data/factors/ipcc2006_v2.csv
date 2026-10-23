@@ -1,0 +1,14 @@
+factor_id,fuel,use,gas,value,unit,ncv_tj_per_gg,source
+NG-STAT-CO2,natural_gas,stationary,CO2,56100,kg/TJ,48.0,IPCC 2006 Vol.2 Table 2.4/2.5
+NG-STAT-CH4,natural_gas,stationary,CH4,5,kg/TJ,48.0,IPCC 2006 Vol.2 Table 2.4/2.5 (commercial/residential)
+NG-STAT-N2O,natural_gas,stationary,N2O,0.1,kg/TJ,48.0,IPCC 2006 Vol.2 Table 2.4/2.5 (commercial/residential)
+GDO-STAT-CO2,gas_diesel_oil,stationary,CO2,74100,kg/TJ,43.0,IPCC 2006 Vol.2 Table 2.4/2.5
+GDO-STAT-CH4,gas_diesel_oil,stationary,CH4,10,kg/TJ,43.0,IPCC 2006 Vol.2 Table 2.4/2.5 (commercial/residential)
+GDO-STAT-N2O,gas_diesel_oil,stationary,N2O,0.6,kg/TJ,43.0,IPCC 2006 Vol.2 Table 2.4/2.5 (commercial/residential)
+MG-ROAD-CO2,motor_gasoline,road,CO2,69300,kg/TJ,44.3,IPCC 2006 Vol.2 Table 3.2.1
+MG-ROAD-CH4,motor_gasoline,road,CH4,33,kg/TJ,44.3,IPCC 2006 Vol.2 Table 3.2.2 (uncontrolled)
+MG-ROAD-N2O,motor_gasoline,road,N2O,3.2,kg/TJ,44.3,IPCC 2006 Vol.2 Table 3.2.2 (uncontrolled)
+GDO-ROAD-CO2,gas_diesel_oil,road,CO2,74100,kg/TJ,43.0,IPCC 2006 Vol.2 Table 3.2.1
+GDO-ROAD-CH4,gas_diesel_oil,road,CH4,3.9,kg/TJ,43.0,IPCC 2006 Vol.2 Table 3.2.2
+GDO-ROAD-N2O,gas_diesel_oil,road,N2O,3.9,kg/TJ,43.0,IPCC 2006 Vol.2 Table 3.2.2
+GRID-CO2E,grid_electricity,grid,CO2e,0.35,kg/kWh,,Illustrative grid factor (updated catalogue) - replace with the local utility or national value

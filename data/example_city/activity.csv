@@ -1,0 +1,25 @@
+city,year,gpc_ref,fuel,use,activity_value,activity_unit,notation_key,data_source,data_quality,comment
+Example City,2022,I.1.1,natural_gas,stationary,3900,TJ,,Gas utility sales,H,
+Example City,2022,I.1.1,gas_diesel_oil,stationary,2100,t,,National fuel sales downscaled by households,M,
+Example City,2022,I.1.2,grid_electricity,grid,880000,MWh,,Electricity utility,H,
+Example City,2022,I.2.1,natural_gas,stationary,2450,TJ,,Gas utility sales,H,
+Example City,2022,I.2.2,grid_electricity,grid,1080000,MWh,,Electricity utility,H,
+Example City,2022,I.3.1,,,,,IE,,,Included in I.2.1: utility does not separate industrial gas customers
+Example City,2022,I.3.2,grid_electricity,grid,590000,MWh,,Electricity utility,H,
+Example City,2022,II.1.1,motor_gasoline,road,148000,t,,Fuel sales within city boundary,M,
+Example City,2022,II.1.1,gas_diesel_oil,road,118000,t,,Fuel sales within city boundary,M,
+Example City,2022,II.1.2,,,,,NE,,,EV charging not metered separately
+Example City,2022,III.1.1,,,,,NE,,,Landfill data requested from waste department
+Example City,2022,III.1.2,,,,,NO,,,All waste is disposed within the city
+Example City,2023,I.1.1,natural_gas,stationary,4000,TJ,,Gas utility sales,H,
+Example City,2023,I.1.1,gas_diesel_oil,stationary,2000,t,,National fuel sales downscaled by households,M,
+Example City,2023,I.1.2,grid_electricity,grid,900000,MWh,,Electricity utility,H,
+Example City,2023,I.2.1,natural_gas,stationary,2500,TJ,,Gas utility sales,H,
+Example City,2023,I.2.2,grid_electricity,grid,1100000,MWh,,Electricity utility,H,
+Example City,2023,I.3.1,,,,,IE,,,Included in I.2.1: utility does not separate industrial gas customers
+Example City,2023,I.3.2,grid_electricity,grid,600000,MWh,,Electricity utility,H,
+Example City,2023,II.1.1,motor_gasoline,road,150000,t,,Fuel sales within city boundary,M,
+Example City,2023,II.1.1,gas_diesel_oil,road,190000,t,,Fuel sales within city boundary,L,New fuel depot included in 2023 sales data
+Example City,2023,II.1.2,,,,,NE,,,EV charging not metered separately
+Example City,2023,III.1.1,,,,,NE,,,Landfill data requested from waste department
+Example City,2023,III.1.2,,,,,NO,,,All waste is disposed within the city

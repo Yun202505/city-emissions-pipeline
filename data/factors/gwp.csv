@@ -1,0 +1,10 @@
+gwp_set,gas,value,source
+AR4,CO2,1,IPCC AR4 WG1 Table 2.14 (100-year)
+AR4,CH4,25,IPCC AR4 WG1 Table 2.14 (100-year)
+AR4,N2O,298,IPCC AR4 WG1 Table 2.14 (100-year)
+AR5,CO2,1,IPCC AR5 WG1 Table 8.7 (100-year)
+AR5,CH4,28,IPCC AR5 WG1 Table 8.7 (100-year)
+AR5,N2O,265,IPCC AR5 WG1 Table 8.7 (100-year)
+AR6,CO2,1,IPCC AR6 WG1 Table 7.15 (100-year)
+AR6,CH4,29.8,IPCC AR6 WG1 Table 7.15 (100-year; fossil methane)
+AR6,N2O,273,IPCC AR6 WG1 Table 7.15 (100-year)
